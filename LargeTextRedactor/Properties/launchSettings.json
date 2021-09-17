@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LargeTextRedactor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
